@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on Backend  
   
 
-- 🌱 I’m currently learning Java spring boot  
+- 🌱 I’m currently learning React Native  
   
 
-- 👀 I’m interested in Software Development and Automation  
+- 👀 I’m interested in Software Development and Machine Learning
   
 
 <br/>  
