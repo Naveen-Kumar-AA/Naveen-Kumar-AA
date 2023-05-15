@@ -6,7 +6,7 @@
 ### <div align="center">I'm Naveen Kumar AA</div>  
   
 
-- 🔭 I’m currently working on Backend  
+- 🔭 I’m currently working on Frontend 
   
 
 - 🌱 I’m currently learning React Native  
