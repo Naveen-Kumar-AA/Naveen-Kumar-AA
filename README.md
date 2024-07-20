@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Full stack development 
   
 
-- 🌱 I’m currently learning React Native  
+- 🌱 I’m currently learning React
   
 
 - 👀 I’m interested in Software Development and Machine Learning
